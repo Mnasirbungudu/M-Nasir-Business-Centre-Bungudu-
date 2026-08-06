@@ -1,20 +1,4 @@
-@media(max-width:600px){
 
-.banner{
-    height:200px;
-    background-size: cover;
-}
-
-.hero{
-    min-height:350px;
-    text-align:center;
-}
-
-.hero h1{
-    font-size:28px;
-}
-
-}
 /* Reset */
 
 *{
