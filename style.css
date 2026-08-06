@@ -407,3 +407,24 @@ footer hr{
 <a href="https://wa.me/2348161342568" class="order-btn" target="_blank">
     Order on WhatsApp
 </a>
+/* Business Statistics */
+
+#stats{
+    background:#f5f8ff;
+}
+
+#stats h2{
+    text-align:center;
+    margin-bottom:40px;
+    color:#0b3d91;
+}
+
+#stats .card{
+    text-align:center;
+}
+
+#stats .card h3{
+    font-size:40px;
+    color:#0b3d91;
+    margin-bottom:10px;
+    }
