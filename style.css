@@ -362,3 +362,28 @@ footer hr{
     transform:translateY(0);
 
 }
+/* Existing CSS above */
+
+/* Last line of your current CSS */
+.show{
+    opacity:1;
+    transform:translateY(0);
+}
+
+/* 👇 Paste the new CSS below this line */
+
+.buy-btn{
+    display:inline-block;
+    margin:15px;
+    padding:12px 22px;
+    background:#25D366;
+    color:white;
+    text-decoration:none;
+    border-radius:30px;
+    font-weight:bold;
+    transition:.3s;
+}
+
+.buy-btn:hover{
+    background:#128C7E;
+}
